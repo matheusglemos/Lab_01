@@ -1,3 +1,9 @@
+/**
+* Laboratório de Programação 2 - Lab 1
+*
+* @author Matheus Gusmão Lemos - 117210399
+*/
+
 import java.util.Scanner;
 
 public class mmp{
